@@ -13,6 +13,8 @@ Onxyia Bakery's nature resistance gear requirements for AQ40. Includes easy to a
 
 Get up to speed on all the new content coming in Phase 5. New raids, profession recipes, dungeon loot, and class/faction quests. Includes details on AQ40 and AQ20 loot and how it will be distributed.
 
+*****
+
 ## Phase 6 Guides
 
 **Prepping for Naxx**
