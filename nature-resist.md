@@ -291,4 +291,4 @@ This is the nature resistance set I'll be starting with for AQ40.
 
 *****
 
-[Home](https://queuebitt.github.io/)
+**[Home](https://queuebitt.github.io/)**
