@@ -20,7 +20,7 @@ Resources for finding additional NR gear are also provided below. This is useful
 
 *****
 
-## Casters & Healers - 108 NR
+## Casters & Healers - 100 NR Minimum
 
 Casters and healers will likely not need to wear their nature resistance set. But we want to be prepared for alternative strategies, and so are asking our cloth wearing compansions to have their own nature resistance set ready to go.
 
@@ -62,7 +62,7 @@ Reputation:
 
 *****
 
-## Rogues & Feral Druids - 155 NR
+## Rogues & Feral Druids - 150 NR Minimum
 
 Rogues and druid kitties will be among the melee DPS taking the brunt of nature damage. Your nature resistance set is among the most important for the raid team.
 
@@ -112,7 +112,7 @@ Reputation:
 
 *****
 
-## Hunters - 158 NR
+## Hunters - 150 NR Minimum
 
 When we don't have 13 melee DPS available hunters will fill in the remaining slots for taking the brunt of nature damage. Your Aspect of the Wild will also be used among the melee.
 
@@ -165,7 +165,7 @@ Reputation:
 
 *****
 
-## Warriors & Paladins - 153 NR
+## Warriors & Paladins - 150 NR Minimum
 
 DPS warriors and paladins will be among the melee DPS taking the brunt of nature damage. Your nature resistance set is among the most important for the raid team. If assigned as one of the two tanks for the fight you will forgo your resistance set.
 
