@@ -5,7 +5,7 @@ Collection of guides on WoW Classic raiding. Created for my guild, but open to a
 
 ## Phase 5 Guides
 
-**Nature Resistance Gear for AQ40**
+**[Nature Resistance Gear for AQ40](https://queuebitt.github.io/nature-resist)**
 
 Onxyia Bakery's nature resistance gear requirements for AQ40. Includes easy to acquire gear suggestions. And links to find the best nature resistance gear for min/maxing.
 
