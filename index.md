@@ -7,7 +7,7 @@ Collection of guides on WoW Classic raiding. Created for my guild, but open to a
 
 **[Nature Resistance Gear for AQ40](https://queuebitt.github.io/nature-resist)**
 
-Onxyia Bakery's nature resistance gear requirements for AQ40. Includes easy to acquire gear suggestions. And links to find the best nature resistance gear for min/maxing.
+Onyxia Bakery's nature resistance gear requirements for AQ40. Includes easy to acquire gear suggestions. And links to find the best nature resistance gear for min/maxing.
 
 **Phase 5 Quick Start Guide**
 
@@ -31,7 +31,7 @@ Naxxramas will involve the single most expensive raid prep in all of Classic. Or
 
 **Frost Resistance Gear for Naxx - Coming Soon**
 
-Goes over frost resistance gear for each class in more detail.
+Goes over Onyxia Bakery's frost resistance gear requirements for each class in more detail.
 
 **Tier 3 Armor from Naxx - Coming Soon**
 
