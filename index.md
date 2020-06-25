@@ -17,9 +17,13 @@ Get up to speed on all the new content coming in Phase 5. New raids, profession 
 
 My predictions on upcoming price changes as Phase 5 approaches. See what items you should consider holding or selling.
 
-**Rogue Dankmantle Set**
+**[Rogue Dankmantle Armor](https://queuebitt.github.io/darkmantle)**
 
 Details on the Darkmantle set for rogue coming in Phase 5. Potentially a better BiS set than Blackwing Lair gear. But with some hefty requirements and consideration.
+
+**Rogue Veiled Shadows Set from AQ20**
+
+AQ20 offers a 3-piece set for each class. The Veiled Shadows set has an awesome set bonus, making it an upgrade for many Blackwing Lair decked out rogues.
 
 *****
 
