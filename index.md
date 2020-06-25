@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/queuebitt/queuebitt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Bitt's WoW Classic Guides
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Collection of guides on WoW Classic raiding. Created for my guild, but open to anyone.
 
-### Markdown
+## Phase 5 Guides
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Nature Resistance Gear for AQ40**
 
-```markdown
-Syntax highlighted code block
+Onxyia Bakery's nature resistance gear requirements for AQ40. Includes easy to acquire gear suggestions. And links to find the best nature resistance gear for min/maxing.
 
-# Header 1
-## Header 2
-### Header 3
+**Phase 5 Quick Start Guide**
 
-- Bulleted
-- List
+Get up to speed on all the new content coming in Phase 5. New raids, profession recipes, dungeon loot, and class/faction quests. Includes details on AQ40 and AQ20 loot and how it will be distributed.
 
-1. Numbered
-2. List
+## Phase 6 Guides
 
-**Bold** and _Italic_ and `Code` text
+**Prepping for Naxx**
 
-[Link](url) and ![Image](src)
-```
+Naxxramas will involve the single most expensive raid prep in all of Classic. Or any future WoW raid, for that matter. Learn what you will need to get attuned, put together a frost resistance set, and to turn in your Tier 3 armor tokens. Get started now to save on coming price hikes.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Frost Resistance Gear for Naxx**
 
-### Jekyll Themes
+Goes over frost resistance gear for each class in more detail.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/queuebitt/queuebitt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Tier 3 Armor from Naxx**
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Goes over Tier 3 armor sets and turn in requirements for each class.
