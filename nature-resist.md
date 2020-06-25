@@ -220,9 +220,11 @@ Reputation:
 
 ## Additional Nature Resistance Gear
 
-**[AQ40 Drops](https://classic.wowhead.com/armor/side:1?filter=27:214;2:3428;1:0#0+15+20) - Awarded based on EP w/o GP cost. Prioritized for appropriate class/role. Limit one per person.**
+**[AQ40 Drops](https://classic.wowhead.com/armor/side:1?filter=27:214;2:3428;1:0#0+15+20)**
 
 These items drop from AQ40 bosses. They provide better resistance and DPS combinations. But you must meet your nature resistance minimum without any of these pieces. They are for improving your set later. No one should count on having them, given their low drop rate and high demand.
+
+*Awarded based on EP w/o GP cost. Prioritized for appropriate class/role. Limit one epic NR per person.*
 
 **Cenarion Circle Crafted Gear**
 
