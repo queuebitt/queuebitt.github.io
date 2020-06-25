@@ -28,7 +28,7 @@ Casters and healers will likely not need to wear their nature resistance set. Bu
 
 *   [Nature's Whisper](https://classic.wowhead.com/item=20645/natures-whisper) (8) - Silithus quest
 *   [Grovekeeper’s Drape](https://classic.wowhead.com/item=17739/grovekeepers-drape) (10) - Maraudon drop
-    *   [Enchant Cloak - Greater Nature Resistance](https://classic.wowhead.com/spell=25082/enchant-cloak-greater-nature-resistance) (15)
+*   [Enchant Cloak - Greater Nature Resistance](https://classic.wowhead.com/spell=25082/enchant-cloak-greater-nature-resistance) (15)
 *   Tier 2 chest piece from Blackwing Lair (10)
 *   [Chloromesh Girdle](https://classic.wowhead.com/item=17750/chloromesh-girdle) (20) - Maraudon drop
 *   [Cenarion Reservist's Leggings](https://classic.wowhead.com/item=20707/cenarion-reservists-pants) (25) - Silithus quest
@@ -70,9 +70,9 @@ Rogues and druid kitties will be among the melee DPS taking the brunt of nature 
 
 *   [Nature's Whisper](https://classic.wowhead.com/item=20645/natures-whisper) (8) - Silithus quest
 *   [Phytoskin Spaulders](https://classic.wowhead.com/item=17749/phytoskin-spaulders) (10) - Maraudon drop
-    *   [Nature Mantle of the Dawn](https://classic.wowhead.com/item=18172/nature-mantle-of-the-dawn) (5) - Argent Dawn Revered
+*   [Nature Mantle of the Dawn](https://classic.wowhead.com/item=18172/nature-mantle-of-the-dawn) (5) - Argent Dawn Revered
 *   [Grovekeeper’s Drape](https://classic.wowhead.com/item=17739/grovekeepers-drape) (10) - Maraudon drop
-    *   [Enchant Cloak - Greater Nature Resistance](https://classic.wowhead.com/spell=25082/enchant-cloak-greater-nature-resistance) (15)
+*   [Enchant Cloak - Greater Nature Resistance](https://classic.wowhead.com/spell=25082/enchant-cloak-greater-nature-resistance) (15)
 *   Tier 2 chest piece from Blackwing Lair (10)
 *   [Chimeric Gloves](https://classic.wowhead.com/item=15074/chimeric-gloves) (12) - Crafted
 *   [Chloromesh Girdle](https://classic.wowhead.com/item=17750/chloromesh-girdle) (20) - Maraudon drop
@@ -120,9 +120,9 @@ When we don't have 13 melee DPS available hunters will fill in the remaining slo
 
 *   [Nature's Whisper](https://classic.wowhead.com/item=20645/natures-whisper) (8) - Silithus quest
 *   [Phytoskin Spaulders](https://classic.wowhead.com/item=17749/phytoskin-spaulders) (10) - Maraudon drop
-    *   [Nature Mantle of the Dawn](https://classic.wowhead.com/item=18172/nature-mantle-of-the-dawn) (5) - Argent Dawn Revered
+*   [Nature Mantle of the Dawn](https://classic.wowhead.com/item=18172/nature-mantle-of-the-dawn) (5) - Argent Dawn Revered
 *   [Grovekeeper’s Drape](https://classic.wowhead.com/item=17739/grovekeepers-drape) (10) - Maraudon drop
-    *   [Enchant Cloak - Greater Nature Resistance](https://classic.wowhead.com/spell=25082/enchant-cloak-greater-nature-resistance) (15)
+*   [Enchant Cloak - Greater Nature Resistance](https://classic.wowhead.com/spell=25082/enchant-cloak-greater-nature-resistance) (15)
 *   Tier 2 chest piece from Blackwing Lair (10)
 *   [Sandstalker Bracers](https://classic.wowhead.com/item=20476/sandstalker-bracers) (15) - Crafted
 *   [Sandstalker Gauntlets](https://classic.wowhead.com/item=20477/sandstalker-gauntlets) (20) - Crafted
@@ -173,9 +173,9 @@ DPS warriors and paladins will be among the melee DPS taking the brunt of nature
 
 *   [Nature's Whisper](https://classic.wowhead.com/item=20645/natures-whisper) (8) - Silithus quest
 *   [Acid-etched Pauldrons](https://classic.wowhead.com/item=13533/acid-etched-pauldrons) (20) - Undead Strat drop
-    *   [Nature Mantle of the Dawn](https://classic.wowhead.com/item=18172/nature-mantle-of-the-dawn) (5) - Argent Dawn Revered
+*   [Nature Mantle of the Dawn](https://classic.wowhead.com/item=18172/nature-mantle-of-the-dawn) (5) - Argent Dawn Revered
 *   [Grovekeeper’s Drape](https://classic.wowhead.com/item=17739/grovekeepers-drape) (10) - Maraudon drop
-    *   [Enchant Cloak - Greater Nature Resistance](https://classic.wowhead.com/spell=25082/enchant-cloak-greater-nature-resistance) (15)
+*   [Enchant Cloak - Greater Nature Resistance](https://classic.wowhead.com/spell=25082/enchant-cloak-greater-nature-resistance) (15)
 *   [Sandstalker Breastplate](https://classic.wowhead.com/item=20478/sandstalker-breastplate) (25) - Crafted
 *   [Noxxion's Shackles](https://classic.wowhead.com/item=17746/noxxions-shackles) (15) - Maraudon drop
 *   [Sandstalker Gauntlets](https://classic.wowhead.com/item=20477/sandstalker-gauntlets) (20) - Crafted
@@ -272,9 +272,9 @@ This is the nature resistance set I'll be starting with for AQ40.
 **Minimum Set - 151 Nature Resistance**
 
 *   [Phytoskin Spaulders](https://classic.wowhead.com/item=17749/phytoskin-spaulders) (10)
-    *   [Nature Mantle of the Dawn](https://classic.wowhead.com/item=18172/nature-mantle-of-the-dawn) (5)
+*   [Nature Mantle of the Dawn](https://classic.wowhead.com/item=18172/nature-mantle-of-the-dawn) (5)
 *   [Grovekeeper’s Drape](https://classic.wowhead.com/item=17739/grovekeepers-drape) (10)
-    *   [Enchant Cloak - Greater Nature Resistance](https://classic.wowhead.com/spell=25082/enchant-cloak-greater-nature-resistance) (15)
+*   [Enchant Cloak - Greater Nature Resistance](https://classic.wowhead.com/spell=25082/enchant-cloak-greater-nature-resistance) (15)
 *   [Bloodfang Chestpiece](https://classic.wowhead.com/item=16905/bloodfang-chestpiece) (10)
 *   [Stonebark Gauntlets](https://classic.wowhead.com/item=18344/stonebark-gauntlets) (16)
 *   [Cenarion Reservist's Leggings](https://classic.wowhead.com/item=20703/cenarion-reservists-leggings) (25)
