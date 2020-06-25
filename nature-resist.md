@@ -220,13 +220,15 @@ Reputation:
 
 ## Additional Nature Resistance Gear
 
-**[AQ40 Drops](https://classic.wowhead.com/armor/side:1?filter=27:214;2:3428;1:0#0+15+20)**
+**AQ40 Drops**
+
+[All AQ40 drops with nature resistance](https://classic.wowhead.com/armor/side:1?filter=27:214;2:3428;1:0#0+15+20).
 
 These items drop from AQ40 bosses. They provide better resistance and DPS combinations. But you must meet your nature resistance minimum without any of these pieces. They are for improving your set later. No one should count on having them, given their low drop rate and high demand.
 
 *Awarded based on EP w/o GP cost. Prioritized for appropriate class/role. Limit one epic NR per person.*
 
-**Cenarion Circle Crafted Gear**
+**Cenarion Circle Gear**
 
 In patch 1.11 (release of Naxx, Phase 6 in Classic) nature resistance recipes were added to Cenarion Circle. Classic is following the same release order. Sandstalker set is available now. The cloak enchant will be available in Phase 5. The rest will not release until Phase 6 (confirmed not available on Phase 5 PTR).
 
@@ -256,3 +258,33 @@ Enchanting
 
 *   [Enchant Cloak - Greater Nature Resistance](https://classic.wowhead.com/spell=25082/enchant-cloak-greater-nature-resistance) (Phase 5) - Honored
 *   [Savage Guard](https://classic.wowhead.com/item=22635/savage-guard) (Phase 6) - ZG quest
+
+Quests
+
+*   [Band of Cenarius](https://classic.wowhead.com/item=22725/band-of-cenarius) (Phase 6) - Revered
+
+*****
+
+## Bitt's Nature Resistance Set
+
+This is the nature resistance set I'll be starting with for AQ40.
+
+**Minimum Set - 151 Nature Resistance**
+
+*   [Phytoskin Spaulders](https://classic.wowhead.com/item=17749/phytoskin-spaulders) (10)
+    *   [Nature Mantle of the Dawn](https://classic.wowhead.com/item=18172/nature-mantle-of-the-dawn) (5)
+*   [Grovekeeper’s Drape](https://classic.wowhead.com/item=17739/grovekeepers-drape) (10)
+    *   [Enchant Cloak - Greater Nature Resistance](https://classic.wowhead.com/spell=25082/enchant-cloak-greater-nature-resistance) (15)
+*   [Bloodfang Chestpiece](https://classic.wowhead.com/item=16905/bloodfang-chestpiece) (10)
+*   [Stonebark Gauntlets](https://classic.wowhead.com/item=18344/stonebark-gauntlets) (16)
+*   [Cenarion Reservist's Leggings](https://classic.wowhead.com/item=20703/cenarion-reservists-leggings) (25)
+*   [Fangdrip Runners](https://classic.wowhead.com/item=13530/fangdrip-runners) (20)
+*   [Jasper Link of Nature Resistance](https://classic.wowhead.com/item=11978/jasper-link) (20)
+*   [Heart of Noxxion](https://classic.wowhead.com/item=17744/heart-of-noxxion) (10)
+*   [Heart of Noxxion](https://classic.wowhead.com/item=17744/heart-of-noxxion) (10)
+
+**Additional Pieces - 189 Nature Resistance**
+
+*   [Nature's Whisper](https://classic.wowhead.com/item=20645/natures-whisper) (8)
+*   [Chloromesh Girdle](https://classic.wowhead.com/item=17750/chloromesh-girdle) (20)
+*   [Petrified Band](https://classic.wowhead.com/item=18343/petrified-band) (10)
