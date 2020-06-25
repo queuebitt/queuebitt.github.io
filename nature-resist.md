@@ -288,3 +288,7 @@ This is the nature resistance set I'll be starting with for AQ40.
 *   [Nature's Whisper](https://classic.wowhead.com/item=20645/natures-whisper) (8)
 *   [Chloromesh Girdle](https://classic.wowhead.com/item=17750/chloromesh-girdle) (20)
 *   [Petrified Band](https://classic.wowhead.com/item=18343/petrified-band) (10)
+
+*****
+
+[**Home**](https://queuebitt.github.io/)
