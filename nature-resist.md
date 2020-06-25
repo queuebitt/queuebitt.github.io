@@ -4,19 +4,13 @@ Nature resistance gear is for the [Princess Huhuran](https://classic.wowhead.com
 
 Ideally only melee and hunters will need to use resistance gear. Except the two tanks, who remain in defensive gear. But all raiders are being asked to put together a set, just in case.
 
-**[Casters & Healers](#bookmark=kix.gz9himdm6593) - 100 NR Minimum**
+**Casters & Healers - 100 NR Minimum**
 
-**
+**Rogues & Feral Druids - 150 NR Minimum**
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Rogues & Feral Druids"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+**Hunters - 150 NR Minimum**
 
-[Rogues & Feral Druids](#heading=h.9exbskeafm6k) - 150 NR Minimum**
-
-**[Hunters](#bookmark=kix.nx7aet1na5vh) - 150 NR Minimum**
-
-**[Warriors & Paladins](#bookmark=kix.ddhfpng88ryu) - 150 NR Minimum**
-
-**[Additional Nature Resistance Gear](#bookmark=kix.vzcxkuk0cwax)**
+**Warriors & Paladins - 150 NR Minimum**
 
 You will be required to meet the above nature resistance minimum (without buffs) in order to participate in AQ40 raids.
 
@@ -24,10 +18,13 @@ To assist below are suggested sets for all classes/roles. Most items are relativ
 
 Resources for finding additional NR gear are also provided below. This is useful for those wishing to min/max their set. Collecting more than the minimum is also recommended. If the fight proves difficult we may need to raise the minimum to 200+ for melee and hunters. As the fight goes to farm status we may reduce the resistance minimum.
 
+*****
 
-### **Casters & Healers - 108 NR**
+## Casters & Healers - 108 NR
 
+Casters and healers will likely not need to wear their nature resistance set. But we want to be prepared for alternative strategies, and so are asking our cloth wearing compansions to have their own nature resistance set ready to go.
 
+**Suggested Nature Resistance Set**
 
 *   [Nature's Whisper](https://classic.wowhead.com/item=20645/natures-whisper) (8) - Silithus quest
 *   [Grovekeeper’s Drape](https://classic.wowhead.com/item=17739/grovekeepers-drape) (10) - Maraudon drop
@@ -39,20 +36,14 @@ Resources for finding additional NR gear are also provided below. This is useful
 
 Materials:
 
-
-
 *   N/A
 
 Quests:
-
-
 
 *   [The Twilight Mystery](https://classic.wowhead.com/quest=8284/the-twilight-mystery) in Silithus. Run through the entire quest chain. Nature’s Whisper will be mailed to you afterwards.
 *   Start with [Dearest Natalia](https://classic.wowhead.com/quest=8304/dearest-natalia) in Silithus. Columates in three group quests involving the Silithus bug nests. You’ll finally get the quest [The Calling](https://classic.wowhead.com/quest=8315/the-calling), which requires killing a 20-man raid boss. The guild can run this before hitting AQ20 or AQ40. Reward is the Cenarion Reservist’s Leggings for your class.
 
 Drops:
-
-
 
 *   Nerub'enkan in Undead Stratholme (first ziggurat)
 *   Razorlash in Maraudon (orange side, second boss)
@@ -60,14 +51,22 @@ Drops:
 
 Reputation:
 
-
-
 *   N/A
 
+**Additional Nature Resistance Gear**
 
-### **Rogues & Feral Druids - 155 NR**
+*   [Cloth Armor](https://classic.wowhead.com/armor/side:1/type:1?filter=27:238;2:4;1:4#0+9-13+20)
+*   [Cloaks](https://classic.wowhead.com/armor/side:1/type:-6?filter=27:238;2:4;1:4#0-13+20)
+*   [Rings](https://classic.wowhead.com/armor/side:1/slot:11?filter=27:238;2:4;1:4#0-13+20)
+*   [Trinkets](https://classic.wowhead.com/armor/side:1/slot:12?filter=27:238;2:4;1:4#0-13+20)
 
+*****
 
+## Rogues & Feral Druids - 155 NR
+
+Rogues and druid kitties will be among the melee DPS taking the brunt of nature damage. Your nature resistance set is among the most important for the raid team.
+
+**Suggested Nature Resistance Set**
 
 *   [Nature's Whisper](https://classic.wowhead.com/item=20645/natures-whisper) (8) - Silithus quest
 *   [Phytoskin Spaulders](https://classic.wowhead.com/item=17749/phytoskin-spaulders) (10) - Maraudon drop
@@ -84,22 +83,16 @@ Reputation:
 
 Materials - Chimeric Gloves:
 
-
-
 *   Rugged Leather x6
 *   Chimera Leather x6
 *   Rune Thread
 
 Quests:
 
-
-
 *   [The Twilight Mystery](https://classic.wowhead.com/quest=8284/the-twilight-mystery) in Silithus. Run through the entire quest chain. Nature’s Whisper will be mailed to you afterwards.
 *   Start with [Dearest Natalia](https://classic.wowhead.com/quest=8304/dearest-natalia) in Silithus. Columates in three group quests involving the Silithus bug nests. You’ll finally get the quest [The Calling](https://classic.wowhead.com/quest=8315/the-calling), which requires killing a 20-man raid boss. The guild can run this before hitting AQ20 or AQ40. Reward is the Cenarion Reservist’s Leggings for your class.
 
 Drops:
-
-
 
 *   Nerub'enkan in Undead Stratholme (first ziggurat)
 *   Noxxion in Maraudon (orange side, first boss)
@@ -108,14 +101,22 @@ Drops:
 
 Reputation:
 
-
-
 *   Revered with Argent Dawn (even more important for Naxx later)
 
+**Additional Nature Resistance Gear**
 
-### **Hunters - 158 NR**
+*   [Leather Armor](https://classic.wowhead.com/armor/side:1/type:2?filter=27:238;2:4;1:4#0+9-13+20)
+*   [Cloaks](https://classic.wowhead.com/armor/side:1/type:-6?filter=27:238;2:4;1:4#0-13+20)
+*   [Rings](https://classic.wowhead.com/armor/side:1/slot:11?filter=27:238;2:4;1:4#0-13+20)
+*   [Trinkets](https://classic.wowhead.com/armor/side:1/slot:12?filter=27:238;2:4;1:4#0-13+20)
 
+*****
 
+## Hunters - 158 NR
+
+When we don't have 13 melee DPS available hunters will fill in the remaining slots for taking the brunt of nature damage. Your Aspect of the Wild will also be used among the melee.
+
+**Suggested Nature Resistance Set**
 
 *   [Nature's Whisper](https://classic.wowhead.com/item=20645/natures-whisper) (8) - Silithus quest
 *   [Phytoskin Spaulders](https://classic.wowhead.com/item=17749/phytoskin-spaulders) (10) - Maraudon drop
@@ -132,8 +133,6 @@ Reputation:
 
 Materials - Sandstalker Bracers & Gauntlets:
 
-
-
 *   Heavy Silithid Carapace x3
 *   Silithid Chitin x50
 *   Larval Acid x4
@@ -142,14 +141,10 @@ Materials - Sandstalker Bracers & Gauntlets:
 
 Quests:
 
-
-
 *   [The Twilight Mystery](https://classic.wowhead.com/quest=8284/the-twilight-mystery) in Silithus. Run through the entire quest chain. Nature’s Whisper will be mailed to you afterwards.
 *   Start with [Dearest Natalia](https://classic.wowhead.com/quest=8304/dearest-natalia) in Silithus. Columates in three group quests involving the Silithus bug nests. You’ll finally get the quest [The Calling](https://classic.wowhead.com/quest=8315/the-calling), which requires killing a 20-man raid boss. The guild can run this before hitting AQ20 or AQ40. Reward is the Cenarion Reservist’s Leggings for your class.
 
 Drops:
-
-
 
 *   Nerub'enkan in Undead Stratholme (first ziggurat)
 *   Noxxion in Maraudon (orange side, first boss)
@@ -158,14 +153,23 @@ Drops:
 
 Reputation:
 
-
-
 *   Revered with Argent Dawn (even more important for Naxx later)
 
+**Additional Nature Resistance Gear**
 
-### **Warriors & Paladins - 153 NR**
+*   [Leather Armor](https://classic.wowhead.com/armor/side:1/type:2?filter=27:238;2:4;1:4#0+9-13+20)
+*   [Mail Armor](https://classic.wowhead.com/armor/side:1/type:3?filter=27:238;2:4;1:4#0+9-13+20)
+*   [Cloaks](https://classic.wowhead.com/armor/side:1/type:-6?filter=27:238;2:4;1:4#0-13+20)
+*   [Rings](https://classic.wowhead.com/armor/side:1/slot:11?filter=27:238;2:4;1:4#0-13+20)
+*   [Trinkets](https://classic.wowhead.com/armor/side:1/slot:12?filter=27:238;2:4;1:4#0-13+20)
 
+*****
 
+## Warriors & Paladins - 153 NR
+
+DPS warriors and paladins will be among the melee DPS taking the brunt of nature damage. Your nature resistance set is among the most important for the raid team. If assigned as one of the two tanks for the fight you will forgo your resistance set.
+
+**Suggested Nature Resistance Set**
 
 *   [Nature's Whisper](https://classic.wowhead.com/item=20645/natures-whisper) (8) - Silithus quest
 *   [Acid-etched Pauldrons](https://classic.wowhead.com/item=13533/acid-etched-pauldrons) (20) - Undead Strat drop
@@ -181,8 +185,6 @@ Reputation:
 
 Materials - Sandstalker Breastplate:
 
-
-
 *   Heavy Silithid Carapace x5
 *   Silithid Chitin x70
 *   Larval Acid x4
@@ -191,14 +193,10 @@ Materials - Sandstalker Breastplate:
 
 Quests:
 
-
-
 *   [The Twilight Mystery](https://classic.wowhead.com/quest=8284/the-twilight-mystery) in Silithus. Run through the entire quest chain. Nature’s Whisper will be mailed to you afterwards.
 *   Start with [Dearest Natalia](https://classic.wowhead.com/quest=8304/dearest-natalia) in Silithus. Columates in three group quests involving the Silithus bug nests. You’ll finally get the quest [The Calling](https://classic.wowhead.com/quest=8315/the-calling), which requires killing a 20-man raid boss. The guild can run this before hitting AQ20 or AQ40. Reward is the Cenarion Reservist’s Leggings for your class.
 
 Drops:
-
-
 
 *   Nerub'enkan in Undead Stratholme (first ziggurat)
 *   Noxxion in Maraudon (orange side, first boss)
@@ -207,18 +205,24 @@ Drops:
 
 Reputation:
 
-
-
 *   Revered with Argent Dawn (even more important for Naxx later)
 
+**Additional Nature Resistance Gear**
 
-### **Additional Nature Resistance Gear**
+*   [Leather Armor](https://classic.wowhead.com/armor/side:1/type:2?filter=27:238;2:4;1:4#0+9-13+20)
+*   [Mail Armor](https://classic.wowhead.com/armor/side:1/type:3?filter=27:238;2:4;1:4#0+9-13+20)
+*   [Plate Armor](https://classic.wowhead.com/armor/side:1/type:4?filter=27:238;2:4;1:4#0+9-13+20)
+*   [Cloaks](https://classic.wowhead.com/armor/side:1/type:-6?filter=27:238;2:4;1:4#0-13+20)
+*   [Rings](https://classic.wowhead.com/armor/side:1/slot:11?filter=27:238;2:4;1:4#0-13+20)
+*   [Trinkets](https://classic.wowhead.com/armor/side:1/slot:12?filter=27:238;2:4;1:4#0-13+20)
 
-The sets above are recommended based on ease of collecting. As well as being available now or at the release of Phase 5. But there are additional pieces of NR gear which you may want to consider.
+*****
+
+## Additional Nature Resistance Gear
 
 **[AQ40 Drops](https://classic.wowhead.com/armor/side:1?filter=27:214;2:3428;1:0#0+15+20) - Awarded based on EP w/o GP cost. Prioritized for appropriate class/role. Limit one per person.**
 
-These items drop from AQ40 bosses. They provide better resistance and DPS combinations. But no one should count on having them, given their low drop rate and high demand.
+These items drop from AQ40 bosses. They provide better resistance and DPS combinations. But you must meet your nature resistance minimum without any of these pieces. They are for improving your set later. No one should count on having them, given their low drop rate and high demand.
 
 **Cenarion Circle Crafted Gear**
 
@@ -226,16 +230,12 @@ In patch 1.11 (release of Naxx, Phase 6 in Classic) nature resistance recipes we
 
 Tailoring
 
-
-
 *   [Sylvan Crown](https://classic.wowhead.com/item=22757/sylvan-crown) (Phase 6) - Honored
 *   [Sylvan Shoulders](https://classic.wowhead.com/item=22758/sylvan-shoulders) (Phase 6) - Friendly
 *   [Sylvan Vest](https://classic.wowhead.com/item=22756/sylvan-vest) (Phase 6) - Revered
 *   [Gaea's Embrace](https://classic.wowhead.com/item=22660/gaeas-embrace) (Phase 6) - Revered
 
 Leatherworking
-
-
 
 *   [Bramblewood Helm](https://classic.wowhead.com/item=22759/bramblewood-helm) (Phase 6) - Revered
 *   [Bramblewood Belt](https://classic.wowhead.com/item=22761/bramblewood-belt) (Phase 6) - Friendly
@@ -246,39 +246,11 @@ Leatherworking
 
 Blacksmithing
 
-
-
 *   [Ironvine Breastplate](https://classic.wowhead.com/item=22762/ironvine-breastplate) (Phase 6) - Revered
 *   [Ironvine Gloves](https://classic.wowhead.com/item=22763/ironvine-gloves) (Phase 6) - Honored
 *   [Ironvine Belt](https://classic.wowhead.com/item=22764/ironvine-belt) (Phase 6) - Friendly
 
 Enchanting
 
-
-
 *   [Enchant Cloak - Greater Nature Resistance](https://classic.wowhead.com/spell=25082/enchant-cloak-greater-nature-resistance) (Phase 5) - Honored
 *   [Savage Guard](https://classic.wowhead.com/item=22635/savage-guard) (Phase 6) - ZG quest
-
-**All Nature Resistance Gear**
-
-These links will show you nearly all nature resistance gear currently in the game (Phase 4). The biggest exception being random greens with “of Nature Resistance” attributes.
-
-Those interested in min/maxing their nature set should check out their options, but keep our nature resistance minimum (unbuffed) in mind. These would also be useful if we need to increase our resistance.
-
-[Cloth](https://classic.wowhead.com/armor/side:1/type:1?filter=27:238;2:4;1:4#0+9-13+20)
-
-[Leather](https://classic.wowhead.com/armor/side:1/type:2?filter=27:238;2:4;1:4#0+9-13+20)
-
-[Mail](https://classic.wowhead.com/armor/side:1/type:3?filter=27:238;2:4;1:4#0+9-13+20)
-
-[Plate](https://classic.wowhead.com/armor/side:1/type:4?filter=27:238;2:4;1:4#0+9-13+20)
-
-[Cloaks](https://classic.wowhead.com/armor/side:1/type:-6?filter=27:238;2:4;1:4#0-13+20)
-
-[Rings](https://classic.wowhead.com/armor/side:1/slot:11?filter=27:238;2:4;1:4#0-13+20)
-
-[Trinkets](https://classic.wowhead.com/armor/side:1/slot:12?filter=27:238;2:4;1:4#0-13+20)
-
-
-
-*   You can wear two of the Heart of Noxxion
