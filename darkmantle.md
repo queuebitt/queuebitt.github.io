@@ -12,7 +12,7 @@ Here is a good guide on Darkmantle and how it compares to Phase 4 BiS: http://cl
 
 His testing shows a 12.6 DPS increase for dagger rogues moving to Darkmantle. And a 25-27 DPS increase for sword rogues. But again these are under more optimal conditions than we experience. So I ran my own numbers.
 
-*   Bitt Model (dagger, ZG 2-piece): 2-4 DPS increase
+*   Bitt Model (daggers, ZG 2-piece): 2-4 DPS increase
 *   Bloodfang Sword Model (epic swords, BF 8/8): Less than 1 DPS increase, potential for decrease on short fights
 *   Bloodfang + ZG Sword Model (epic swords, ZG 2-piece): 20.5 DPS increase
 
