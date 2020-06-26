@@ -13,7 +13,7 @@ Onyxia Bakery's nature resistance gear requirements for AQ40. Includes easy to a
 
 Get up to speed on all the new content coming in Phase 5. New raids, profession recipes, dungeon loot, and class/faction quests. Includes details on AQ40 and AQ20 loot and how it will be distributed.
 
-**Phase 5 Economics**
+**[Phase 5 Economics](https://queuebitt.github.io/p5-economics)**
 
 My predictions on upcoming price changes as Phase 5 approaches. See what items you should consider holding or selling.
 
@@ -21,7 +21,7 @@ My predictions on upcoming price changes as Phase 5 approaches. See what items y
 
 Details on the Darkmantle set for rogues coming in Phase 5. Potentially a better BiS set than Blackwing Lair gear. But with some hefty requirements and consideration.
 
-**[Rogue Veiled Shadows Set from AQ20](https://queuebitt.github.io/veiled-shadows)**
+**[Rogue Veiled Shadows Set](https://queuebitt.github.io/veiled-shadows)**
 
 AQ20 offers a 3-piece set for each class. The Veiled Shadows has an awesome set bonus, making it an upgrade for many Blackwing Lair decked out rogues.
 
