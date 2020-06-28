@@ -46,3 +46,8 @@ Key points:
 *   Complete UD Strat in under 45 minutes (from second portcullis to Baron engaged)
 *   Several dungeon runs to summon new bosses
 *   Farm up the ability to summon a Duke of Cynders (Bitt has mats and will post to Discord beforehand)
+
+
+*****
+
+**[Home](https://queuebitt.github.io/)**
