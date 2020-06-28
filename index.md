@@ -17,14 +17,6 @@ Get up to speed on all the new content coming in Phase 5. New raids, profession 
 
 My predictions on upcoming price changes as Phase 5 approaches. See what items you should consider holding or selling.
 
-**[Rogue Dankmantle Armor](https://queuebitt.github.io/darkmantle)**
-
-Details on the Darkmantle set for rogues coming in Phase 5. Potentially a better BiS set than Blackwing Lair gear. But with some hefty requirements and consideration.
-
-**[Rogue Veiled Shadows Set](https://queuebitt.github.io/veiled-shadows)**
-
-AQ20 offers a 3-piece set for each class. The Veiled Shadows has an awesome set bonus, making it an upgrade for many Blackwing Lair decked out rogues.
-
 *****
 
 ## Phase 6 Guides
@@ -40,3 +32,19 @@ Goes over Onyxia Bakery's frost resistance gear requirements for each class in m
 **Tier 3 Armor from Naxx - Coming Soon**
 
 Goes over Tier 3 armor sets and turn in requirements for each class in more detail.
+
+*****
+
+## Rogue Guides
+
+**Imp Expose Armor + Shout Spam**
+
+Info on a new raid meta which will take off in Phase 5. Replacing Sunder Armor with Imp Expose Armor in raids for a 5% increase in all physical damage.
+
+**[Rogue Dankmantle Armor](https://queuebitt.github.io/darkmantle)**
+
+Details on the Darkmantle set for rogues coming in Phase 5. Potentially a better BiS set than Blackwing Lair gear. But with some hefty requirements and consideration.
+
+**[Rogue Veiled Shadows Set](https://queuebitt.github.io/veiled-shadows)**
+
+AQ20 offers a 3-piece set for each class. The Veiled Shadows has an awesome set bonus, making it an upgrade for many Blackwing Lair decked out rogues.
