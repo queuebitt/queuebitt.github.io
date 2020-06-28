@@ -37,7 +37,7 @@ Goes over Tier 3 armor sets and turn in requirements for each class in more deta
 
 ## Rogue Guides
 
-**Imp Expose Armor + Shout Spam**
+**[Imp Expose Armor + Shout Spam](https://queuebitt.github.io/expose-armor)**
 
 Info on a new raid meta which will take off in Phase 5. Replacing Sunder Armor with Imp Expose Armor in raids for a 5% increase in all physical damage.
 
