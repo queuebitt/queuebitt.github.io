@@ -51,3 +51,8 @@ You'll need to get specific boss drops, scarabs and idols, and Cenarion Circle r
 *   Cenarion Circle (Exalted)
 
 The idols and scarabs will be collected by the guild each run. Once you have both the drop and sufficent rep you can request the ones you need. Cenarion Circle rep is best earned running AQ20. Each full clear gets you ~2000 rep.
+
+
+*****
+
+**[Home](https://queuebitt.github.io/)**
