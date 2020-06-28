@@ -64,3 +64,8 @@ Those who don't like the idea of investing can continue to save their gold for n
 *   Epic flying mounts cost an additional 5200 gold (6000 gold total if you go straight to epic)
 *   22 slot bags for 1200 gold
 *   Guild Banks, with tabs costing between 100 to 5000 gold each (9350 gold total)
+
+
+*****
+
+**[Home](https://queuebitt.github.io/)**
