@@ -2,6 +2,8 @@
 
 To help our members get BiS enchants for new head and leg items through Phase 5 and 6 we will be starting up ZG idol runs. These will be more limited and restrictive runs into ZG than what we’ve done before. They are not intended to replace regular ZG runs. Though the participants of the idol runs will be locked out from a full clear of ZG during the same reset period.
 
+*****
+
 ## Idol Run Basics
 
 We will only hit four bosses in ZG.
@@ -13,6 +15,8 @@ We will only hit four bosses in ZG.
 5. Kill [Bloodlord Mandokir](https://classic.wowhead.com/npc=11382/bloodlord-mandokir) for idol and raptor mount.
 6. Turn in idols for enchants.
 7. Portal/hearth.
+
+*****
 
 ## Idol Loot Rules
 
@@ -34,6 +38,8 @@ The following class/specs will NOT be allowed to loot idols from these runs:
 You must get your own voodoo doll. We will not be checking piles during these runs.
 
 Your spec is what you sign up and raid as in progressive, 40-man content. Not the roll you are filling in the ZG run.
+
+*****
 
 ## All Other Loot Rules
 
