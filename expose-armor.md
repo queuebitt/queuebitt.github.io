@@ -1,6 +1,6 @@
 # Imp Expose Armor + Shout Spam
 
-There's a new raid meta on the scene. Imp Expose Armor + Shout Spam. We're giving it a go in Onyxia's Bakery. If all goes well it'll be a solid increase to both raid DPS and tank threat.
+There's a new raid meta on the scene. Imp Expose Armor + Shout Spam. We're testing it out in limited cases within Onyxia's Bakery. If all goes well it'll could be a solid increase to both raid DPS and tank threat in Phase 5.
 
 *****
 
@@ -23,6 +23,8 @@ In Phase 4 there is a small gap between Sunder Armor and Battle Shout. BS wins, 
 *****
 
 ## Raid Changes
+
+These would be the expected changes in raids should we go all in on this strategy.
 
 Apb has volunteered to be the Imp Expose Armor rogue. No other rogues need to worry about respeccing. The ideal rogue setup is [combat swords, but with 2 points in Imp Expose Armor]( https://classic.wowhead.com/talent-calc/rogue/00502312501-3203050020050150231).
 
