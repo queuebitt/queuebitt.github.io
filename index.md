@@ -5,13 +5,11 @@ Collection of guides on WoW Classic raiding. Created for my guild, but open to a
 
 ## Phase 5 Guides
 
-**Phase 5 Quick Start Guide**
-
-[https://queuebitt.github.io/p5](https://queuebitt.github.io/p5)
+**[Phase 5 Quick Start Guide](https://queuebitt.github.io/p5)**
 
 Get up to speed on all the new content coming in Phase 5. New raids, profession recipes, dungeon loot, and class/faction quests. Includes details on AQ40 and AQ20 loot and how it will be distributed.
 
-**Nature Resistance Gear for AQ40 - [https://queuebitt.github.io/nature-resist](https://queuebitt.github.io/nature-resist)**
+[**Nature Resistance Gear for AQ40**](https://queuebitt.github.io/nature-resist)
 
 Onyxia Bakery's nature resistance gear requirements for AQ40. Includes easy to acquire gear suggestions. And links to find the best nature resistance gear for min/maxing.
 
