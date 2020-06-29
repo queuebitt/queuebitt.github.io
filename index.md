@@ -13,7 +13,7 @@ Get up to speed on all the new content coming in Phase 5. New raids, profession 
 
 Onyxia Bakery's nature resistance gear requirements for AQ40. Includes easy to acquire gear suggestions. And links to find the best nature resistance gear for min/maxing.
 
-**[Shadow Resistance Gear for AQ40](https://queuebitt.github.io/shadow-resist)**
+**[Warlock Shadow Resistance Gear for AQ40](https://queuebitt.github.io/shadow-resist)**
 
 Guide to gearing up our warlocks with shadow resistance for the Twin Emperors fight.
 
