@@ -1,6 +1,6 @@
 # Warlock Shadow Resistance Gear for AQ40
 
-Two warlocks with lots of shadow resistance gear are for the [Twin Emperors](https://classic.wowhead.com/npc=15276/emperor-veklor) fight in AQ40. Vek'lor is immune to all physical attacks. This led to the strategy of using a shadow resistant warlock as the tank. They need to have lots of health (usually a Flask of Titans) and 315 shadow resistance. As the bosses teleport locations two geared warlocks were used.
+Two warlocks with lots of shadow resistance gear are for the [Twin Emperors](https://classic.wowhead.com/npc=15276/emperor-veklor) fight in AQ40. Vek'lor is immune to all physical attacks. This led to the strategy of using shadow resistant warlocks as the tank. They need to have lots of health and 315 shadow resistance. As the bosses teleport locations two geared warlocks are used.
 
 There is also a strategy for using two warriors (shouts on Vek'lor). But that also depends on heavy melee DPS being available. Having geared up warlocks gives us options for various raid compositions.
 
