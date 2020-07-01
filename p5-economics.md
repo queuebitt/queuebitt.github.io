@@ -18,7 +18,7 @@ These are items I plan to sell off before Phase 5 launch. I'm expecting a signif
 
 ## Items Going Up In Value
 
-Some of the value increase has already begun. All value gains may be fully realized before Phase 5 launches. Raiders should consider stocking up on nature protection pots in advance. As well as shards and essences for Phase 5 gear enchants.
+Some of the value increase began before the Phase 5 date was announced. All value gains may be fully realized before Phase 5 launches. Raiders should consider stocking up on nature protection pots in advance. As well as shards and essences for Phase 5 gear enchants.
 
 **Firebloom & Firefin Snapper** - Used for Elixir of Greater Firepower, in demand by all the new fire mages.
 
@@ -51,7 +51,7 @@ Invest in what you'll eventually need.  In almost every case these items will be
 *   Frost resistance gear mats
 *   Tier 3 armor turn in mats
 
-The more adventuresome may want to look into long term investments. It is mostly too late to invest into Phase 5. But there is still time to invest into items which will be in higher demand in Phase 6.
+The more adventuresome may want to look into long term investments. It is too late to invest into Phase 5. But there is still time to invest into items which will be in higher demand in Phase 6.
 
 *   Do your homework
 *   Set a budget
