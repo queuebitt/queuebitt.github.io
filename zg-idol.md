@@ -10,7 +10,7 @@ We will only hit four bosses in ZG.
 
 1. From the entrance turn left and cross the water.
 2. Kill [Jin’do the Hexxer](https://classic.wowhead.com/npc=11380/jindo-the-hexxer) for idol.
-3. Kill [High Priestess Arlokk](https://classic.wowhead.com/npc=14515/high-priestess-arlokk) for an 18-slot bag.
+3. Kill [High Priestess Arlokk](https://classic.wowhead.com/npc=14515/high-priestess-arlokk) for an 18-slot bag (optional).
 4. Kill [High Priest Thekal](https://classic.wowhead.com/npc=14509/high-priest-thekal) for tiger mount.
 5. Kill [Bloodlord Mandokir](https://classic.wowhead.com/npc=11382/bloodlord-mandokir) for idol and raptor mount.
 6. Turn in idols for enchants.
