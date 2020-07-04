@@ -54,7 +54,7 @@ Guide Notes:
     *   [Ice Guard](https://classic.wowhead.com/quest=9211/the-ice-guard) (10)
 *   [Ramaladni's Icy Grasp](https://classic.wowhead.com/item=22707/ramaladnis-icy-grasp) (25) - Quest
     *   Frozen Rune
-    *   Clue Sapphire
+    *   Blue Sapphire
     *   Arcanite Bar
 
 **Total Materials To Gather Pre-Naxx:**
@@ -99,7 +99,7 @@ Guide Notes:
     *   [Ice Guard](https://classic.wowhead.com/quest=9211/the-ice-guard) (10)
 *   [Ramaladni's Icy Grasp](https://classic.wowhead.com/item=22707/ramaladnis-icy-grasp) (25) - Quest
     *   Frozen Rune
-    *   Clue Sapphire
+    *   Blue Sapphire
     *   Arcanite Bar
 
 **Total Materials To Gather Pre-Naxx:**
@@ -145,7 +145,7 @@ Guide Notes:
     *   [Ice Guard](https://classic.wowhead.com/quest=9211/the-ice-guard) (10)
 *   [Ramaladni's Icy Grasp](https://classic.wowhead.com/item=22707/ramaladnis-icy-grasp) (25) - Quest
     *   Frozen Rune
-    *   Clue Sapphire
+    *   Blue Sapphire
     *   Arcanite Bar
 
 **Total Materials To Gather Pre-Naxx:**
@@ -185,7 +185,7 @@ Tanks will want to stick with the Icebane (plate) set. DPS will want to pick and
     *   [Ice Guard](https://classic.wowhead.com/quest=9211/the-ice-guard) (10)
 *   [Ramaladni's Icy Grasp](https://classic.wowhead.com/item=22707/ramaladnis-icy-grasp) (25) - Quest
     *   Frozen Rune
-    *   Clue Sapphire
+    *   Blue Sapphire
     *   Arcanite Bar
 
 **Total Materials To Gather Pre-Naxx (Icebane plate set):**
