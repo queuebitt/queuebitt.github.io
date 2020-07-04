@@ -273,7 +273,7 @@ Crafting can make your gathering profession more profitable. Or with some startu
 
 Flipping can offer the highest gold to time return. But it requires good knowledge of the market you're working in. As well as start up capital and the willingness to take risks. If you're into that do your homework before you get started. And have a Plan B in mind if Naxx is fast approaching and you haven't gotten what you needed.
 
-Everyone can run Scholomance. It is the most profitable 5-man dungeon in the game. The Dark Runes may cost less than a Righteous Orb, but they are a more common drop. And you are more likely to get a group to agree to round robin on runes than not having a PUG reserve orbs. It also grants Argent Dawn rep, which will lower your NAxx attunemnet cost.
+Everyone can run Scholomance. It is the most profitable 5-man dungeon in the game. The Dark Runes may cost less than a Righteous Orb, but they are a more common drop. And you are more likely to get a group to agree to round robin on runes than not having a PUG reserve orbs. It also grants Argent Dawn rep, which will lower your Naxx attunemnet cost.
 
 **Find a Mentor**
 
