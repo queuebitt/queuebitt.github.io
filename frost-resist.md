@@ -12,7 +12,9 @@ Everyone in the raid will need to use resistance gear.
 
 **Warriors & Paladins - 200 FR Minimum**
 
-You will be required to have your frost resistance gear mats ready in order to participate in Naxx raids. Most of the actual gear comes from quests and recipes located inside Naxx. So no one will have their minimum frost resistance on launch day.
+Most of the actual gear comes from quests and recipes located inside Naxx. So no one will have their minimum frost resistance on launch day. But the needed materials can get epensive for some classes. And prices will only go up as Naxx approaches. You will be required to have your frost resistance gear mats ready in order to participate in Naxx raids. 
+
+[Naxx Armor Cost Estimator](https://docs.google.com/spreadsheets/d/1si6sUHfb4LqRwsBzyB9Fal9RkO3F4BozdNM04xZVSdg/edit?usp=sharing)
 
 To assist below are suggested sets for all classes/roles. Again, the items come from quests or crafting released with Naxx. But most of the materials can be gathered now. And given their current and expected future cost everyone should start gathering what they need ASAP. A list of materials for each group is included.
 
@@ -66,6 +68,12 @@ Guide Notes:
 *   Arcanite Bar
 *   30 gold
 
+**Additional Materials If Providing Your Own Cloak:**
+
+*   Bolt of Runecloth x4 (Runecloth x20)
+*   Ironweb Spider Silk x4
+*   Essence of Water x2
+
 *****
 
 ## Rogues & Feral Druids - 204 FR
@@ -111,6 +119,12 @@ Guide Notes:
 *   Blue Sapphire x3
 *   Arcanite Bar
 *   30 gold
+
+**Additional Materials If Providing Your Own Cloak:**
+
+*   Bolt of Runecloth x4 (Runecloth x20)
+*   Ironweb Spider Silk x4
+*   Essence of Water x2
 
 *****
 
@@ -158,6 +172,12 @@ Guide Notes:
 *   Arcanite Bar
 *   30 gold
 
+**Additional Materials If Providing Your Own Cloak:**
+
+*   Bolt of Runecloth x4 (Runecloth x20)
+*   Ironweb Spider Silk x4
+*   Essence of Water x2
+
 *****
 
 ## Warriors & Paladins - 204 FR
@@ -197,6 +217,12 @@ Tanks will want to stick with the Icebane (plate) set. DPS will want to pick and
 *   30 gold
 
 _These are for the Icebane (plate) set + Ramaladini’s Icy Grasp. DPS can reference the rogue or hunter materials for the leather and mail sets. It is recommended you put together your own ideal set and list of materials._
+
+**Additional Materials If Providing Your Own Cloak:**
+
+*   Bolt of Runecloth x4 (Runecloth x20)
+*   Ironweb Spider Silk x4
+*   Essence of Water x2
 
 *****
 
