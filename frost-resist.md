@@ -16,13 +16,13 @@ You will be required to have your frost resistance gear mats ready in order to p
 
 To assist below are suggested sets for all classes/roles. Again, the items come from quests or crafting released with Naxx. But most of the materials can be gathered now. And given their current and expected future cost everyone should start gathering what they need ASAP. A list of materials for each group is included.
 
-Resources for finding additional FR gear currently in the game are also provided below. This is useful for those wishing to min/max their set. Collecting more than the minimum is recommended. As the fight goes to farm status we may reduce the resistance minimum.
+Resources for finding additional frost resist gear currently in the game are also provided below. This is useful for those wishing to min/max their set. Collecting more than the minimum is recommended. As the fight goes to farm status we may reduce the resistance minimum.
 
-_Phase 6 and Naxxramas are expected to be released mid January 2021._
+Guide Notes:
 
-_Glacial Cloaks with an enchant will be provided to all Naxx raiders by the guild. If you have the means to get mats for your own that's helpful, but not required._
-
-_Frozen Runes are found inside Naxxramas. They will be collected and distributed by the guild._
+*   Phase 6 and Naxxramas are expected to be released mid January 2021.
+*   Frozen Runes are found inside Naxxramas. They will be collected and distributed by the guild.
+*   Glacial Cloaks with an enchant will be provided to all Naxx raiders by the guild. If you have the means to get mats for your own that's helpful, but not required.
 
 *****
 
