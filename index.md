@@ -25,7 +25,7 @@ My predictions on upcoming price changes as Phase 5 approaches. See what items y
 
 Info on a new raid meta which will take off in Phase 5. Replacing Sunder Armor with Imp Expose Armor in raids for a 5% increase in all physical damage.
 
-**[ZG Idol Runs](https://queuebitt.github.io/zg-idol.md)**
+**[ZG Idol Runs](https://queuebitt.github.io/zg-idol)**
 
 Quick run down and loot rules on shortened ZG runs planned to get BiS head and leg enchants to our raid mains.
 
