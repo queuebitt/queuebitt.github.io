@@ -35,17 +35,21 @@ Quick run down and loot rules on shortened ZG runs planned to get BiS head and l
 
 Coming soon. Let's get through the start of Phase 5 first. But if you have questions feel free to ask Bitt directly in Discord or in game.
 
-**Prepping for Naxx**
+**[Prepping for Naxx](https://queuebitt.github.io/naxx)**
 
 Naxxramas will involve the single most expensive raid prep in all of Classic. Or any future WoW raid, for that matter. Learn what you will need to get attuned, put together a frost resistance set, and to turn in your Tier 3 armor tokens. Get started now to save on coming price hikes.
 
-**Frost Resistance Gear for Naxx**
+**[Frost Resistance Gear for Naxx](https://queuebitt.github.io/frost-resist)**
 
 Goes over Onyxia Bakery's frost resistance gear requirements for each class in more detail.
 
-**Tier 3 Armor from Naxx**
+**[Tier 3 Armor from Naxx](https://queuebitt.github.io/tier-3)**
 
 Goes over Tier 3 armor sets and turn in requirements for each class in more detail.
+
+**[Naxx Armor Cost Estimator](https://docs.google.com/spreadsheets/d/1si6sUHfb4LqRwsBzyB9Fal9RkO3F4BozdNM04xZVSdg/edit?usp=sharing)**
+
+See what your out of pocket cost is for frost resistance and Tier 3 armor. Prices updated periodicly. Or follow the instructions and do it yourself.
 
 *****
 
