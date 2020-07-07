@@ -5,10 +5,6 @@ Collection of guides on WoW Classic raiding. Created for my guild, but open to a
 
 ## Phase 5 Guides
 
-**[Phase 5 Quick Start Guide](https://queuebitt.github.io/p5)**
-
-Get up to speed on all the new content coming in Phase 5. New raids, profession recipes, dungeon loot, and class/faction quests. Includes details on AQ40 and AQ20 loot and how it will be distributed.
-
 **[Nature Resistance Gear for AQ40](https://queuebitt.github.io/nature-resist)**
 
 Onyxia Bakery's nature resistance gear requirements for AQ40. Includes easy to acquire gear suggestions. And links to find the best nature resistance gear for min/maxing.
@@ -17,13 +13,17 @@ Onyxia Bakery's nature resistance gear requirements for AQ40. Includes easy to a
 
 Guide to gearing up our warlocks with shadow resistance for the Twin Emperors fight.
 
+**[Phase 5 Quick Start Guide](https://queuebitt.github.io/p5)**
+
+Get up to speed on all the new content coming in Phase 5. New raids, profession recipes, dungeon loot, and class/faction quests. Includes details on AQ40 and AQ20 loot and how it will be distributed.
+
+**[Tier 2.5 Armor Requirements](https://docs.google.com/spreadsheets/d/1VnTBwPeDnoIchXCDYBu3aVuPF5Bc5A2Z4Gmyw5JmJc0/edit?usp=sharing)**
+
+Detailed breakdown of what each piece of your Tier 2.5 set requires. Includes token and boss, scarabs and idols, and rep.
+
 **[Phase 5 Economics](https://queuebitt.github.io/p5-economics)**
 
 My predictions on upcoming price changes as Phase 5 approaches. See what items you should consider holding or selling.
-
-**[Imp Expose Armor + Shout Spam](https://queuebitt.github.io/expose-armor)**
-
-Info on a new raid meta which will take off in Phase 5. Replacing Sunder Armor with Imp Expose Armor in raids for a 5% increase in all physical damage.
 
 **[ZG Idol Runs](https://queuebitt.github.io/zg-idol)**
 
@@ -62,3 +62,7 @@ Details on the Darkmantle set for rogues coming in Phase 5. Potentially a better
 **[Rogue Veiled Shadows Set](https://queuebitt.github.io/veiled-shadows)**
 
 AQ20 offers a 3-piece set for each class. The Veiled Shadows has an awesome set bonus, making it an upgrade for many Blackwing Lair decked out rogues.
+
+**[Imp Expose Armor + Shout Spam](https://queuebitt.github.io/expose-armor)**
+
+Info on a new raid meta which will take off in Phase 5. Replacing Sunder Armor with Imp Expose Armor in raids for a 5% increase in all physical damage.
