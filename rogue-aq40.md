@@ -173,3 +173,7 @@ Manually - Worst case you can open your bags and click on the weapons yourself. 
 
 *   Being greedy to do DPS will wipe the raid. Situational awareness, position, and movement is much, much more important.
 *   Save Evasion for when you’re in the stomach. If you are alone in the stomach then leave, you can’t solo the tentacles and survive.
+
+---
+
+**[Home](https://queuebitt.github.io)**
