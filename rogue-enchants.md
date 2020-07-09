@@ -65,7 +65,7 @@ Phase 5 brings new glove and cloak enchants from AQ20 and AQ40. Including two ne
 
 **Legs**
 
-[Death’s Embrace](https://classic.wowhead.com/item=19784/deaths-embrace) | - 28 attack power & 1% dodge
+[Death’s Embrace](https://classic.wowhead.com/item=19784/deaths-embrace) - 28 attack power & 1% dodge
 
 *   Best in slot
 *   Get in on guild ZG idol runs for your best shot. Remember to buy a rogue voodoo doll from the AH, too.
