@@ -1,4 +1,4 @@
-# Rogues BiS Enchants for Phase 5
+# Rogue BiS Enchants for Phase 5
 
 Phase 5 brings new glove and cloak enchants from AQ20 and AQ40. Including two new enchants all rogues should consider for their new AQ40 loot.
 
