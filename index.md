@@ -55,13 +55,17 @@ See what your out of pocket cost is for frost resistance and Tier 3 armor. Price
 
 ## Rogue Guides
 
-**[Rogue Dankmantle Armor](https://queuebitt.github.io/darkmantle)**
+**[Dankmantle Armor](https://queuebitt.github.io/darkmantle)**
 
 Details on the Darkmantle set for rogues coming in Phase 5. Potentially a better BiS set than Blackwing Lair gear. But with some hefty requirements and consideration.
 
-**[Rogue Veiled Shadows Set](https://queuebitt.github.io/veiled-shadows)**
+**[Veiled Shadows Set](https://queuebitt.github.io/veiled-shadows)**
 
 AQ20 offers a 3-piece set for each class. The Veiled Shadows has an awesome set bonus, making it an upgrade for many Blackwing Lair decked out rogues.
+
+**[Rogues BiS Enchants for Phase 5](https://queuebitt.github.io/rogue-enchants)**
+
+Phase 5 bring new cloak and glove enchants. Changing some of the BiS enchant options for rogues.
 
 **[Imp Expose Armor + Shout Spam](https://queuebitt.github.io/expose-armor)**
 
