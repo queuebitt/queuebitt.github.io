@@ -104,7 +104,7 @@ Alternatively dagger rogues can keep their weapons. And sword rogues can buy two
 
 **Other Frost Proc Weapons**
 
-Exact proc rates for these weapons in Classic is unknown. I'm listing them in order based on limited Classic testing. Other lists use a different order, but that is based on private server data which is likely more inaccurate. At the end of the day the Coldrage Daggers work fine and are the easiest for everyone to get. Frost wands and mages are going to do most of the Phase 1 heavy lifting.
+Exact proc rates for these weapons in Classic is unknown. Any "best" lists I've seen are from private server testing, which is known to not match up with Classic. At the end of the day the Coldrage Daggers work fine and are the easiest for non-casters to get. Frost wands and mages are going to do most of the Phase 1 heavy lifting.
 
 [Bonechill Hammer](https://classic.wowhead.com/item=14487/bonechill-hammer) - Scholomance
 
@@ -114,23 +114,33 @@ Exact proc rates for these weapons in Classic is unknown. I'm listing them in or
 
 [Darrowspike](https://classic.wowhead.com/item=13984/darrowspike) - Scholomance quest reward
 
+[Hurricane](https://classic.wowhead.com/item=2824/hurricane) - Ranged option for hunters. The original version used +frost damage and would not work for this fight. The Classic version uses seperate frost damage, so the thinking is it will work. But this has not been confirmed. Hunters can always go melee for less cost and guaranteed results.
+
+[All Frost Wands](https://classic.wowhead.com/weapons/type:19?filter=35;4;0) - For priests and warlocks. Mana Channeling Wand from Dire Maul North is probably your easiest option.
+
 Weapons with +frost damage attributes [will not work](https://us.forums.blizzard.com/en/wow/t/weapons-with-frost-damage-or-any-other-school-dont-work/569190/7). The game applies them as regular damage, they do not count toward a Viscidus freeze
 
-**Weapon Swap Macros**
+**Weapon Swap In Combat**
 
-Macro 1 - Swap to Viscidus specific weapons
+There are a few options for swapping weapons in combat. But there isn't a one best solution for everyone.
 
-    #showtooltip Coldrage Dagger
-    /equipslot 16 Coldrage Dagger
-    /equipslot 17 Coldrage Dagger
-
-Macro 2 - Swap to your normal weapons
+Macro - This is the easiest option. But only works if using two different weapons. If you use two of the same weapon it'll fail to equip the OH slot. As such this won't work for putting on two Coldrage Daggers.
 
     #showtooltip <item name>
     /equipslot 16 <MH weapon>
     /equipslot 17 <OH weapon>
 
-Test both macros ahead of time.
+Macro with Script - You can use a script to equip two of the same weapons. But they must be in designated bag slots for it to work.
+
+    #showtooltip Coldrage Dagger
+    /run local i,c=PickupInventoryItem,PickupContainerItem;i(16);if CursorHasItem()then c(4,4);end
+    /run local i,c=PickupInventoryItem,PickupContainerItem;i(17);if CursorHasItem()then c(4,4);end
+
+*Change the "4,4" in both lines with the bag coordinates you're using. First number is the bag ID (main backpack is 0, each slot to the right goes 1, 2, 3, 4). Second number is the slot ID (count left to right, like reading a paragraph).*
+
+[ItemRack](https://www.curseforge.com/wow/addons/itemrack-classic) - You can create a set for Coldrage Daggers and a set for your normal weapons. To swap in combat you must assign a keybinding to both sets. If you use a different gear swapping addon check it for how to swap weapons in combat.
+
+Manually - Worst case you can open your bags and click on the weapons yourself. I suggest putting them in designated slots so you know exactly where they are. And where the swapped out weapons will go.
 
 ---
 
