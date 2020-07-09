@@ -100,7 +100,7 @@ Phase 5 brings new glove and cloak enchants from AQ20 and AQ40. Including two ne
 
 *   Daggers only
 *   A little behind Crusader in PvE damage, but excellent for dagger rogues in PvP
-*   If you PvP a little or a lot it is usually better than Crusader overall
+*   If you PvP a little or a lot it is usually better than Crusader for both PvE and PvP overall
 
 **Off Hand Weapon**
 
@@ -110,10 +110,10 @@ Phase 5 brings new glove and cloak enchants from AQ20 and AQ40. Including two ne
 *   Crusader can proc on either weapon, and can proc together (+200 strength total)
 *   Best in slot if you can regularly time cooldowns along with dual Crusader procs
 
-[Agility](https://classic.wowhead.com/spell=23800/enchant-weapon-agility - 15 agility
+[Agility](https://classic.wowhead.com/spell=23800/enchant-weapon-agility) - 15 agility
 
 *   Swords or daggers
-*   Best in slot if you don’t stack buffs for cooldowns, want to play with more ease
+*   Best in slot if you don’t stack buffs for cooldowns, or want to play with more ease
 
 *****
 
