@@ -63,6 +63,10 @@ Details on the Darkmantle set for rogues coming in Phase 5. Potentially a better
 
 AQ20 offers a 3-piece set for each class. The Veiled Shadows has an awesome set bonus, making it an upgrade for many Blackwing Lair decked out rogues.
 
+**[Rogue Notes for AQ40](https://queuebitt.github.io/rogue-aq40)**
+
+Notes to help rogues out in AQ40. Includes section on melee frost damage for Viscidus.
+
 **[Rogue BiS Enchants for Phase 5](https://queuebitt.github.io/rogue-enchants)**
 
 Phase 5 bring new cloak and glove enchants. Changing some of the BiS enchant options for rogues.
