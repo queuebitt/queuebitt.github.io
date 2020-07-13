@@ -10,6 +10,8 @@ There is also a strategy for using two warriors (shouts on Vek'lor). But that al
 
 This set of gear, combined with the [MD/Ruin talent build](https://classic.wowhead.com/talent-calc/warlock/-234035010250005-50502051020001) and buffs, will get a warlock to 315 shadow resistance. It can be put together on the cheap with guild dungeon runs. It also keeps the Nemesis 3-piece bonus intact for better threat.
 
+Your own set may vary, which is fine. The goal is to reach 170 SR with gear and enchants. But spell hit, damage (for threat), and health are also important. Resistance cap doesn't work if the boss gets off of the tanking warlock. Or the tanking warlock dies.
+
 *   [Nemesis Skullcap](https://classic.wowhead.com/item=16929/nemesis-skullcap) (10) - Onyxia
 *   [Felheart Shoulder Pads](https://classic.wowhead.com/item=16807/felheart-shoulder-pads) (7) - Baron Geddon
     *   [Shadow Mantle of the Dawn](https://classic.wowhead.com/item=18173/shadow-mantle-of-the-dawn) (5) - Revered with Argent Dawn
@@ -27,13 +29,15 @@ This set of gear, combined with the [MD/Ruin talent build](https://classic.wowhe
 
 _Runed Stygian gear is pricey to craft. But dedicated Scholo runs to collect Dark Runes will greatly reduce the cost._
 
-_[Nemesis Belt](https://classic.wowhead.com/item=16933/nemesis-belt) (10) and [Funeral Cuffs](https://classic.wowhead.com/item=12626/funeral-cuffs) (10) can be used in place of _[Nemesis Bracers](https://classic.wowhead.com/item=16934/nemesis-bracers) (0)_ and [Runed Stygian Belt](https://classic.wowhead.com/item=20539/runed-stygian-belt) (20)._
+_[Nemesis Belt](https://classic.wowhead.com/item=16933/nemesis-belt) (10) and [Funeral Cuffs](https://classic.wowhead.com/item=12626/funeral-cuffs) (10) can be used in place of [Nemesis Bracers](https://classic.wowhead.com/item=16934/nemesis-bracers) (0) and [Runed Stygian Belt](https://classic.wowhead.com/item=20539/runed-stygian-belt) (20)._
 
 *****
 
 ## Recommended Shadow Resistance Gear - Without MD/Ruin Build
 
 Losing the MD/Ruin talent build costs the warlock 60 shadow resistance. That has to be made up for with more expensive gear. If the warlock is an engineer this can be managed without heavy cost.
+
+Your own set may vary, which is fine. The goal is to reach 230 SR with gear and enchants. But spell hit, damage (for threat), and health are also important. Resistance cap doesn't work if the boss gets off of the tanking warlock. Or the tanking warlock dies.
 
 **Required Gear - 177 SR:**
 
@@ -56,7 +60,7 @@ Losing the MD/Ruin talent build costs the warlock 60 shadow resistance. That has
 *   Neck: [Eidolon Talisman](https://classic.wowhead.com/item=18340/eidolon-talisman) (15) - Dire Maul North trash BoE, 400 gold on AH
 *   Neck: [Felstone Good Luck Charm](https://classic.wowhead.com/item=13473/felstone-good-luck-charm) (13) - Quest reward
 *   Fingers: Random Green Ring of Shadow Resistance (18-21) - 150-200 on gold AH
-*   Trinkets: [Ultra-Flash Shadow Reflector](https://classic.wowhead.com/item=18639/ultra-flash-shadow-reflector) (15) - Crafted, requires engineering
+*   Trinkets: [Ultra-Flash Shadow Reflector](https://classic.wowhead.com/item=18639/ultra-flash-shadow-reflector) (20) - Crafted, requires engineering, can wear 2
 
 _A warlock engineer could use two trinkets, two rings, and a neck and keep their Nemesis 3-piece bonus._
 
